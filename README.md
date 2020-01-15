@@ -8,7 +8,7 @@
 
 ## 说明
 
-麦葱特制多站合一音乐搜索解决方案，支持搜索试听以下网站音乐：
+多站合一音乐搜索解决方案，支持搜索试听以下网站音乐：
 
 [网易云音乐](http://music.163.com) [QQ音乐](http://y.qq.com) [酷狗音乐](http://www.kugou.com) [酷我音乐](http://www.kuwo.cn) [虾米音乐](http://www.xiami.com) [百度音乐](http://music.baidu.com) [一听音乐](http://www.1ting.com) [咪咕音乐](http://music.migu.cn) [荔枝FM](http://www.lizhi.fm) [蜻蜓FM](http://www.qingting.fm) [喜马拉雅FM](http://www.ximalaya.com) [全民K歌](http://kg.qq.com) [5sing原创](http://5sing.kugou.com/yc) [5sing翻唱](http://5sing.kugou.com/fc)
 
@@ -76,6 +76,5 @@
 1. 本站音频文件来自各网站接口，本站不会修改任何音频文件
 2. 音频版权来自各网站，本站只提供数据查询服务，不提供任何音频存储和贩卖服务
 
-## 开源协议
-
-The MIT License (MIT)
+## 项目相关使用
+存音
