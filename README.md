@@ -4,7 +4,7 @@
 [![PHP version](https://img.shields.io/badge/php-%3E%205.4-orange.svg)](https://github.com/php-src/php)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#LICENSE)
 
-原项目已不再维护，这里看心情更新
+原项目已不再维护，这里不定时更新
 
 ## 说明
 
