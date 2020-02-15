@@ -14,15 +14,8 @@
 
 数据调用的是各网站的 API 接口，有的接口并不是开放的，随时可能失效，本项目相关代码仅供参考。
 
-## 演示
-
-[http://music.2333.me/](http://music.2333.me/ "音乐搜索器")
-
 如果获取有误或需要改进，欢迎提交 [Issues](https://github.com/maicong/music/issues)
 
-## 下载
-
-[📦 下载开发版](https://github.com/maicong/music/archive/master.zip) [📦 获取稳定版](https://github.com/maicong/music/releases)
 
 ## 解决方案
 
